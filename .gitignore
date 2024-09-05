@@ -1,0 +1,36 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+env/
+*.env
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore Django specific files
+*.log
+*.pot
+*.pyc
+*.sqlite3
+/staticfiles
+/mediafiles
+
+# Ignore Audio and Media Files (optional)
+*.mp3
+*.wav
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+puddle/media
+
+*.jpg
+
